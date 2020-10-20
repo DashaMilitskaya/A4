@@ -1,0 +1,4 @@
+﻿  main (2).cpp
+C:\Users\Даша\source\repos\monitor rider\monitor rider\main (2).cpp(1,1): warning C4005: _UNICODE: изменение макроопределения
+C:\Users\Даша\source\repos\monitor rider\monitor rider\main (2).cpp : message : см. предыдущее определение "_UNICODE"
+  monitor rider.vcxproj -> C:\Users\Даша\source\repos\monitor rider\Debug\monitor rider.exe

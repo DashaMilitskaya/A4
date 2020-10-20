@@ -1,0 +1,8 @@
+﻿  main (2).cpp
+C:\Users\Даша\source\repos\monitor rider\monitor rider\main (2).cpp(1,1): warning C4005: _UNICODE: изменение макроопределения
+C:\Users\Даша\source\repos\monitor rider\monitor rider\main (2).cpp : message : см. предыдущее определение "_UNICODE"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 98 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  monitor rider.vcxproj -> C:\Users\Даша\source\repos\monitor rider\Release\monitor rider.exe
